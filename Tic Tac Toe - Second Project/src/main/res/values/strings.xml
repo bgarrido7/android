@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="toast_message">Reset Done!</string>
+</resources>
